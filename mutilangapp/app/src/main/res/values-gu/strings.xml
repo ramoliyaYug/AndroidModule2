@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">મલ્ટીલૅંગએપ</string>
+    <string name="login_page">લૉગિન પેજ</string>
+    <string name="username">વપરાશકર્તા નામ</string>
+    <string name="password">પાસવર્ડ</string>
+    <string name="login">લૉગિન</string>
+    <string name="forgot_password">પાસવર્ડ ભૂલી ગયા?</string>
+</resources>

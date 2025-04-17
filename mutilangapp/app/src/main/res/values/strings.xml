@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mutilangapp</string>
+    <string name="login_page">Login Page</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">forgot password</string>
+    <string name="english" translatable="false">English</string>
+    <string name="hindi" translatable="false">हिंदी</string>
+    <string name="gujarati" translatable="false">ગુજરાતી</string>
+</resources>

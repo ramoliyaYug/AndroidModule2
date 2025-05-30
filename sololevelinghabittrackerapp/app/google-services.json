@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "297356858218",
+    "firebase_url": "https://projectcollaborationapp-default-rtdb.firebaseio.com",
+    "project_id": "projectcollaborationapp",
+    "storage_bucket": "projectcollaborationapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297356858218:android:393c0f0551621af6580b13",
+        "android_client_info": {
+          "package_name": "com.example.projectcollaboration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297356858218-u2ijtmr9pj5g7trhlse2vbg2f28th74a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2mUECr6uPMvlqbDj-oHVWlzcw1NbtM0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297356858218-u2ijtmr9pj5g7trhlse2vbg2f28th74a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297356858218:android:cbab5a9517bb4f4c580b13",
+        "android_client_info": {
+          "package_name": "com.example.sololevelinghabittrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297356858218-u2ijtmr9pj5g7trhlse2vbg2f28th74a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2mUECr6uPMvlqbDj-oHVWlzcw1NbtM0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297356858218-u2ijtmr9pj5g7trhlse2vbg2f28th74a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
